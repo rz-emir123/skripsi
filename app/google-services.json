@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "98941767505",
+    "firebase_url": "https://e-tilang-d7826.firebaseio.com",
+    "project_id": "e-tilang-d7826",
+    "storage_bucket": "e-tilang-d7826.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98941767505:android:e3eab4ff805a9b7fbd4d70",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98941767505-hi560ia55v1m86aeflrvvkqh3vaouriq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "f241359e21169d246e712f20c54f0909101d2346"
+          }
+        },
+        {
+          "client_id": "98941767505-dv3f8mk64t5t221p8nmh88hamth0c7v8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlzotUZbOX5ChCHcU7hdRafFqLXq_LmQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98941767505-dv3f8mk64t5t221p8nmh88hamth0c7v8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

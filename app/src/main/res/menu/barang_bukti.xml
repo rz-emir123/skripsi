@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/barang_bukti1"
+        android:title="SIM"/>
+    <item
+        android:id="@+id/barang_bukti2"
+        android:title="STNK"/>
+    <item
+        android:id="@+id/barang_bukti3"
+        android:title="BPKB"/>
+    <item
+        android:id="@+id/barang_bukti4"
+        android:title="Kendaraan"/>
+</menu>

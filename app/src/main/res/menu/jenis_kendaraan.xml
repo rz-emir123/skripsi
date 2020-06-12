@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/jenis_kendaraan1"
+        android:title="Sepeda Motor"/>
+    <item
+        android:id="@+id/jenis_kendaraan2"
+        android:title="Mobil Roda 4"/>
+    <item
+        android:id="@+id/jenis_kendaraan3"
+        android:title="Bajaj"/>
+    <item
+        android:id="@+id/jenis_kendaraan4"
+        android:title="Taksi"/>
+    <item
+        android:id="@+id/jenis_kendaraan5"
+        android:title="Truk Kecil"/>
+    <item
+        android:id="@+id/jenis_kendaraan6"
+        android:title="Truk Besar"/>
+</menu>
